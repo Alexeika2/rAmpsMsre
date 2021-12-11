@@ -36,4 +36,4 @@ install_github("Alexeika2/rAmpsMsre", build_vignettes=FALSE,
 -------
 # How to Use
 
-[example_amps.R](https://github.com/Alexeika2/rAmpsMsre/examples/example_amps.R)
+[example_amps.R](https://github.com/Alexeika2/rAmpsMsre/blob/master/examples/example_amps.R)
