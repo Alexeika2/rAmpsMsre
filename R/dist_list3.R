@@ -1,3 +1,5 @@
+#' @export
+
 dist_list3 <- function(data, fun, coords_dist, far_value, .parallel = FALSE, ...) {
   if (!is.list(data)){
     stop("Param 'data' must be a list")
